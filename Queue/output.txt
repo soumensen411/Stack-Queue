@@ -1,0 +1,11 @@
+size 3
+10
+size 2
+20
+size 0
+Queue is empty
+size 0
+Queue is empty
+-1
+Queue is empty
+-1
